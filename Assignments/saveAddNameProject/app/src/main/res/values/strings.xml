@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">saveAddNameProject</string>
+    <string name="input">Enter Name</string>
+    <string name="empty">No Name Entered</string>
+    <string name="button">Add Name</string>
+    <string name="hint">Enter Name</string>
+</resources>
