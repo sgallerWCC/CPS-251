@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coroutines Project</string>
+    <string name="hint">Enter a name</string>
+    <string name="button">ADD NAME</string>
+</resources>
