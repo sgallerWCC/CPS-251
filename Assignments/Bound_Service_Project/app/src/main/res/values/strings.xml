@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bound_Service_Project</string>
+    <string name="btn1">Start</string>
+    <string name="btn2">Pause</string>
+    <string name="btn3">Stop</string>
+    <string name="stopwatch_default">00:00:00</string>
+</resources>
