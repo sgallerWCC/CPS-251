@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQL_lite_final_project</string>
+    <string name="name_input">Enter Name</string>
+    <string name="phone_input">Enter Phone</string>
+    <string name="add_btn">Add</string>
+    <string name="find_btn">Find</string>
+    <string name="asc_btn">Asc</string>
+    <string name="desc_btn">Desc</string>
+</resources>
